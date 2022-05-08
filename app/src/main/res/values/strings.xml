@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">FirstDemoAndroid</string>
+
+    <string-array name="langauges">
+
+        <item> Hindi </item>
+        <item> English </item>
+        <item> Bangla </item>
+        <item> Marathi </item>
+        <item> Tamil </item>
+        <item> Spanish </item>
+
+    </string-array>
+</resources>
